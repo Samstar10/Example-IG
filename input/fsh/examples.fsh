@@ -17,5 +17,5 @@ Description: "Example of OSA BMI value"
 * subject = Reference(osa-patient-jane-doe)
 * status = $ObsStatus#final
 * effectiveDateTime = "2021-09-28"
-// * performer = Reference(osa-practitioner-kyle-anydoc)
+* performer = Reference(osa-practitioner-kyle-anydoc)
 * valueQuantity = 32.5 'kg/m2' "kg/m2"
